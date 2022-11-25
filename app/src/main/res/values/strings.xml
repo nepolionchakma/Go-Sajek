@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Go Sajek</string>
+    <string name="scrollview">scrollView</string>
+    <string name="here">here</string>
+    <string name="travel">Travel</string>
+    <string name="welcome">Welcome To Sajek</string>
+    <string name="hotel">Hotel</string>
+    <string name="gallery">Gallery</string>
+    <string name="police">Police</string>
+    <string name="around">Around</string>
+    <string name="how">How To</string>
+    <string name="small">Small Trip</string>
+    <string name="medium">Medium</string>
+    <string name="big_trip">Big Trip</string>
+    <string name="parking">Parking</string>
+    <string name="help_line">Help Line</string>
+</resources>
